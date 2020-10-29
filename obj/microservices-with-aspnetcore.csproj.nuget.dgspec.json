@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\learning\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj": {}
+    "C:\\repos\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj": {}
   },
   "projects": {
-    "C:\\repos\\learning\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj": {
+    "C:\\repos\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\learning\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj",
+        "projectUniqueName": "C:\\repos\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj",
         "projectName": "microservices-with-aspnetcore",
-        "projectPath": "C:\\repos\\learning\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj",
+        "projectPath": "C:\\repos\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj",
         "packagesPath": "C:\\Users\\Matth\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\learning\\microservices-with-aspnetcore\\obj\\",
+        "outputPath": "C:\\repos\\microservices-with-aspnetcore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matth\\AppData\\Roaming\\NuGet\\NuGet.Config",

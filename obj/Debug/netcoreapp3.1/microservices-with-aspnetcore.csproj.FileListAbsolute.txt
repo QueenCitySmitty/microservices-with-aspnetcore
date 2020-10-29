@@ -1,0 +1,4 @@
+C:\repos\microservices-with-aspnetcore\obj\Debug\netcoreapp3.1\microservices-with-aspnetcore.csprojAssemblyReference.cache
+C:\repos\microservices-with-aspnetcore\obj\Debug\netcoreapp3.1\microservices-with-aspnetcore.AssemblyInfoInputs.cache
+C:\repos\microservices-with-aspnetcore\obj\Debug\netcoreapp3.1\microservices-with-aspnetcore.AssemblyInfo.cs
+C:\repos\microservices-with-aspnetcore\obj\Debug\netcoreapp3.1\microservices-with-aspnetcore.csproj.CoreCompileInputs.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NmWOi5sVc7e+iuPDqBFJD2vhehFTKKH6vpaw9ZI1AXlG3Zm/EFIjjdnbCazQiyOP5an7r0gn2p8WyR/YsPG3lg==",
+  "dgSpecHash": "w5IhgE+sQn347BkpQMlk3yjyYPf7Xf1NQVcH+wKs4ZtQdOSolcW6to+NCU6sVdsZFwsgOrlweYFSMJXvME2CQQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\learning\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj",
+  "projectFilePath": "C:\\repos\\microservices-with-aspnetcore\\microservices-with-aspnetcore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matth\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Matth\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
